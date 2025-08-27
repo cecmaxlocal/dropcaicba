@@ -1,0 +1,12 @@
+{
+    "name": "aditalg",
+    "version": "0.1.0",
+    "description": "A Raku module for document analysis and editing.",
+    "authors": [
+        "Your Name <you@example.com>"
+    ],
+    "license": "Artistic-2.0",
+    "dependencies": {
+        "Raku": ">=6.d"
+    }
+}
