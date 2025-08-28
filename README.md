@@ -1,10 +1,8 @@
 # dropcaicba
 
-![IDECNN](./matrix/cec/image/logon.jpg)
+![IDECaicba](./matrix/cec/image/logon.jpeg)
 
 "dropcaicba" is a project written in Raku Butterfly, designed for handling and processing numbered messages, with a particular emphasis on the "Call BullDog" protocol.
-
-![IDECaicba](./matrix/cec/image/logon.jpeg)
 ______
 
 ## Table of Contents
